@@ -120,4 +120,3 @@ And finally run the below command inside the project directory to deploy the pro
 
 View the logs of the function from Extension Center.
 
-<!-- Minor changes -->
